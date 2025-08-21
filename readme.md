@@ -125,7 +125,6 @@ Short, action-focused prompts work well:
 ## Project Structure
 
 ```
-Finals/
   main.py                 # PyQt5 app (tabs, hookups)
   viewer.py               # OpenGL skeleton viewer (KIT-21)
   model.py                # Transformer (encoder/decoder + generation)
