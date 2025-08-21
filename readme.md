@@ -219,7 +219,7 @@ Indices must point to valid `.npy`. Viewer recenters/rescales; app normalizes pe
 
 - **HumanML3D / KIT-ML** datasets (copyright by respective authors).  
 - Original HumanML3D repo: https://github.com/EricGuo5513/HumanML3D  
-- This app uses a simplified 21-joint skeleton and caption-level retrieval.
+- This app uses a 21-joint skeleton and caption-level retrieval.
 
 ---
 
