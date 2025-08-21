@@ -40,6 +40,8 @@ python main.py
 
 Expected layout (example):
 
+Dataset link - https://drive.google.com/drive/folders/1D3bf2G2o4Hv-Ale26YW18r1Wrh7oIAwK
+
 ```
 dataset/
   new_joints/          # motion .npy clips (T, 21, 3) or (T, 63) -> auto-reshaped
