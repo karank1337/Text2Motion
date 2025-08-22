@@ -1,4 +1,4 @@
-# Text-to-Motion (PyQt5 App) — HumanML3D / KIT-ML
+# Text-to-Motion (PyQt5 App)
 
 Skeleton-based text→motion with:
 - Transformer
