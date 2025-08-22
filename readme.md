@@ -64,9 +64,9 @@ Build indices (one-to-one text↔motion) — outputs `train_index.json`, `val_in
 
 ```bash
 python build_index_separate_texts.py \
-  --root    /home/s5726453/Karan/Finals/dataset/new_joints \
-  --texts-dir /home/s5726453/Karan/Finals/dataset/texts \
-  --outdir /home/s5726453/Karan/Finals/indices
+  --root    .../dataset/new_joints \
+  --texts-dir .../dataset/texts \
+  --outdir .../indices
 ```
 
 In the **Dataset** tab:
