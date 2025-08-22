@@ -40,9 +40,9 @@ python main.py
 
 ## Data
 
-Expected layout (example):
-
 Dataset link - https://drive.google.com/drive/folders/1D3bf2G2o4Hv-Ale26YW18r1Wrh7oIAwK
+
+Expected layout (example):
 
 ```
 dataset/
