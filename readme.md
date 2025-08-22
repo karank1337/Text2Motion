@@ -226,5 +226,5 @@ Indices must point to valid `.npy`. Viewer recenters/rescales; app normalizes pe
 
 ## License
 
-Research/education only. Adjust license as needed for your repo.
+Research/education only.
 
