@@ -46,14 +46,12 @@ def valid_motion_shape(path, allow_pickle=False):
 
 
 def read_caption(path_no_ext, texts_dir=None):
-    # prefer sidecar .txt next to motion
     txt_path = path_no_ext + '.txt'
     if os.path.isfile(txt_path):
         try:
             return open(txt_path, 'r', encoding='utf-8').read().strip()
         except Exception:
             pass
-    # else try separate texts_dir using basename
     if texts_dir:
         base = os.path.basename(path_no_ext) + '.txt'
         cand = os.path.join(texts_dir, base)
