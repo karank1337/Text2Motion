@@ -172,7 +172,7 @@ pip install pyqtgraph
 **Permission denied writing indices**  
 Write to a home folder (not `/dataset`):
 ```bash
-python build_index_separate_texts.py --outdir ~/Karan/Finals/indices
+python build_index_separate_texts.py --outdir ~/indices
 ```
 
 **“No valid motion files found”**  
