@@ -8,6 +8,8 @@ Skeleton-based text→motion with:
 
 > For research/education. Dataset: HumanML3D / KIT-ML.
 
+![Demo Screenshot](000.png)
+
 ---
 
 ## Features
