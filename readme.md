@@ -114,7 +114,7 @@ Short, action-focused prompts work well:
 
 ---
 
-## How it works (short)
+## How it works 
 
 - **Transformer** encodes text and autoregressively decodes joints `(T, 21, 3)`  
 - **CFG** scales text conditioning against a null prompt branch  
