@@ -213,6 +213,8 @@ Indices must point to valid `.npy`. Viewer recenters/rescales; app normalizes pe
   
 - For wave prompts, retrieval mix is reduced to let the upper-body controller dominate.  
 - Deterministic seed from prompt → stable generation per text.
+- (Professional Notes) While the system demonstrates a complete text-to-motion pipeline, a key limitation is its classification issue.
+- The model struggles to clearly separate fine-grained actions (e.g., hand gestures), which impacts motion accuracy.
 
 ---
 
